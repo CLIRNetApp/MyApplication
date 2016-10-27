@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_name">Open Dialog</string>
+    <string name="close_dialog_button">Close Dialog</string>
+    <string name="text_dialog">The text content of this dialog is used for experiment so it might be make any meaning to you</string>
+    <string name="apikey">123456789</string>
+    <string name="costomview">im custom view</string>
+</resources>
